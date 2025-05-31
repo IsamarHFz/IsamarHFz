@@ -20,15 +20,6 @@
 
 ---
 
-## 🧠 Habilidades:
-
-```text
-Lenguajes:        Python · JavaScript · Dart · HTML · CSS · C++ · Java · TypeScript
-Frameworks:       React · Vue · Node.js · Django · Flutter · Flask
-Bases de Datos:   MySQL · PostgreSQL · MongoDB · MariaDB
-Herramientas:     Git · Docker · Figma · Firebase · Postman · VS Code
-IA / Ciencia de Datos: Scikit-learn · Pandas · Seaborn
-```
 
 ---
 
@@ -41,9 +32,15 @@ IA / Ciencia de Datos: Scikit-learn · Pandas · Seaborn
 ---
 
 ## 📫 Contáctame:
-
-- 📧 Correo: marisahfz07@gmail.com  
-- 📸 Instagram: [@isamarh03](https://instagram.com/isamarh03)
+  <a href="mailto:marisahfz07@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Gmail" width="30" height="30"/>
+  </a>
+  <a href="https://fb.com/isa%20hernández" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" height="30"/>
+  </a>
+  <a href="https://instagram.com/isamarh03" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/>
+  </a>
 
 ---
 
@@ -56,25 +53,18 @@ IA / Ciencia de Datos: Scikit-learn · Pandas · Seaborn
 ---
 
 ## ⚡ Dato curioso:
-
 ✨ Me encanta la fotografía y capturar la belleza de la naturaleza.
 
 ---
+## 🧠 Habilidades:
 
-## 👋 Hola, soy Isabel Hernández Fernández
-
-<h3 align="center">Bienvenid@ a mi perfil de GitHub</h3>
-
-### 🌐 Conecta conmigo:
-
-<a href="https://fb.com/isa%20hernández" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" height="30"/>
-</a>
-<a href="https://instagram.com/isamarh03" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/>
-</a>
-
----
+```text
+Lenguajes:        Python · JavaScript · Dart · HTML · CSS · C++ · Java · TypeScript
+Frameworks:       React · Vue · Node.js · Django · Flutter · Flask
+Bases de Datos:   MySQL · PostgreSQL · MongoDB · MariaDB
+Herramientas:     Git · Docker · Figma · Firebase · Postman · VS Code
+IA / Ciencia de Datos: Scikit-learn · Pandas · Seaborn
+```
 
 ## 🛠️ Tecnologías y herramientas:
 
